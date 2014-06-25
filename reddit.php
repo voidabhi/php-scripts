@@ -1,7 +1,7 @@
 <?php
 
 class Reddit {
-	private static $user_agent = 'SnapCorgi http://github.com/pcrumm/snapcorgi';
+	private static $user_agent = 'Reddy https://github.com/voidabhi/reddy';
 
 	protected static function make_request($endpoint, $params) {
 	
