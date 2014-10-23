@@ -1,7 +1,7 @@
 Reddy
 =====
 
-Php classes which acts as an interface for interacting with webservices like 
+Php classes which acts as an interface for interacting with web-services like 
 
 ``reddit``
 ``snapchat``
