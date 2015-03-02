@@ -10,6 +10,8 @@ Php classes which acts as an interface for interacting with web-services like
 Contribution
 ============
 
+Feel free to send pull request!
+
 
 License
 ==========================
