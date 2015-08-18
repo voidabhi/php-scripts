@@ -7,6 +7,7 @@ class Corgi extends Reddit {
 		return self::fetch_first_image_from_posts( json_decode( $reddit_corgis, true ) );
 	}
 
+	// to fetch top corgi posts
 	private static function fetch_corgi_post() {
 		$params = array(
 			't' 	=> 'day',
