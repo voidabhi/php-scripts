@@ -1,5 +1,4 @@
-Reddy
-=====
+## Reddy
 
 Php classes which acts as an interface for interacting with web-services like 
 
@@ -7,14 +6,13 @@ Php classes which acts as an interface for interacting with web-services like
 ``snapchat``
 ``quora``
 
-Contribution
-============
+### Contribution
 
 Feel free to send pull request!
 
 
-LICENSE
-================
+### LICENSE
+
 ```
 Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/reddy
 
