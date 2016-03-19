@@ -1,6 +1,6 @@
 ## Reddy
 
-Php classes which acts as an interface for interacting with web-services like 
+Php wrapper classes for
 
 ``reddit``
 ``snapchat``
