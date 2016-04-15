@@ -17,6 +17,7 @@ class Corgi extends Reddit {
 		return self::make_request( '/r/corgi/top', $params );
 	}
 
+	// fetch top image
 	private static function fetch_first_image_from_posts( $corgis ) {
 		if(isset($corgis['data']['children']))
 		{
