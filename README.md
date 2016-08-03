@@ -5,6 +5,7 @@ Php wrapper classes for
 ``reddit``
 ``snapchat``
 ``quora``
+``acl``
 
 ### Contribution
 
