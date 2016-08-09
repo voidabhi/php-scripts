@@ -6,6 +6,7 @@ Php wrapper classes for
 ``snapchat``
 ``quora``
 ``acl``
+``imgur``
 
 ### Contribution
 
