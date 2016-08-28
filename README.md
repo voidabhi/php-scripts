@@ -1,6 +1,6 @@
 ## Reddy
 
-Php wrapper classes for
+Php helper classes for
 
 ``reddit``
 ``snapchat``
