@@ -7,6 +7,7 @@ Php helper classes for
 ``quora``
 ``acl``
 ``imgur``
+``UUID``
 
 ### Contribution
 
