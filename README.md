@@ -8,6 +8,8 @@ Php helper classes for
 ``acl``
 ``imgur``
 ``UUID``
+``GraphQL``
+``RBAC``
 
 ### Contribution
 
