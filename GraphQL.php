@@ -1,5 +1,7 @@
 <?php
-require_once __DIR__.'/vendor/autoload.php';
+
+// load graphql through vendor
+
 use GraphQL\Type\Definition\ObjectType;
 use GraphQL\Type\Definition\Type;
 use GraphQL\Schema;
