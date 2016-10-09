@@ -10,6 +10,7 @@ Php helper classes for
 ``UUID``
 ``GraphQL``
 ``RBAC``
+``stripe``
 
 ### Contribution
 
