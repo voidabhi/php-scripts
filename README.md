@@ -11,6 +11,7 @@ Php helper classes for
 ``GraphQL``
 ``RBAC``
 ``stripe``
+``ShortURL``
 
 ### Contribution
 
