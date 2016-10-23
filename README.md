@@ -12,6 +12,9 @@ Php helper classes for
 ``RBAC``
 ``stripe``
 ``ShortURL``
+``Firebase``
+``Lambda``
+``Logger``
 
 ### Contribution
 
