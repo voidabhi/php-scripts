@@ -15,6 +15,9 @@ Php helper classes for
 ``Firebase``
 ``Lambda``
 ``Logger``
+``GraphQL``
+``Debugger``
+``RabbitMQ``
 
 ### Contribution
 
