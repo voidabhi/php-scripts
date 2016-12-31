@@ -18,6 +18,9 @@ Php helper classes for
 ``GraphQL``
 ``Debugger``
 ``RabbitMQ``
+''CreditCard''
+''APICache''
+
 
 ### Contribution
 
