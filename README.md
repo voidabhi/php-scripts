@@ -18,8 +18,11 @@ Php helper classes for
 ``GraphQL``
 ``Debugger``
 ``RabbitMQ``
-''CreditCard''
-''APICache''
+``CreditCard``
+``APICache``
+``SQLite``
+``Wunderlist``
+``Maxmind``
 
 
 ### Contribution
