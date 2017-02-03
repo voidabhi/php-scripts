@@ -1,3 +1,5 @@
+<?php
+
 // Taken from https://github.com/inacho/php-credit-card-validator/blob/master/src/CreditCard.php
 
 class CreditCard
