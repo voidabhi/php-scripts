@@ -23,7 +23,9 @@ Php helper classes for
 ``SQLite``
 ``Wunderlist``
 ``Maxmind``
-
+APICache
+APIServer
+APIHelper
 
 ### Contribution
 
